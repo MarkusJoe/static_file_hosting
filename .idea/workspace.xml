@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49ceab6b-f693-4a8e-b995-e02a5d767c8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
-    </list>
+    <list default="true" id="49ceab6b-f693-4a8e-b995-e02a5d767c8d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650074094717</updated>
       <workItem from="1650074096547" duration="148000" />
-      <workItem from="1650091929358" duration="363000" />
+      <workItem from="1650091929358" duration="800000" />
     </task>
     <servers />
   </component>
